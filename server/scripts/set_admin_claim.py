@@ -10,7 +10,7 @@ via Admin SDK, never client)").
 Setup:
     pip install firebase-admin
 Usage (run in the same folder as hemm.json, or set FIREBASE_CRED_PATH):
-    python set_admin_claim.py KQ8boa8pfhRrcimry9eAY0WicHO2
+    python set_admin_claim.py DtdWceRqgLR6g8szhiOvKN331e43
 """
 import sys
 import os
